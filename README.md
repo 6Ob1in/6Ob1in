@@ -1,7 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm Krishan Kumar</h1>
 <h3 align="center">I am a tech enthusiast. 🤠</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=6oblin&label=Profile%20views&color=0e75b6&style=flat" alt="6oblin" /> </p>
+
+<p align="left" style="background-image:url("https://unsplash.com/photos/iCxPxfBlvlg")> <img src="https://komarev.com/ghpvc/?username=6oblin&label=Profile%20views&color=0e75b6&style=flat" alt="6oblin" /> </p>
 
 - 👨‍🎓 I am currently a second year **Computer Science Student**
 
